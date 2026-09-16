@@ -1,0 +1,6 @@
+work/
+.sites-runtime/
+*.tar.gz
+*.tar
+node_modules/
+.env*
