@@ -4,3 +4,4 @@ work/
 *.tar
 node_modules/
 .env*
+_site/
